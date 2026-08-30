@@ -7,4 +7,8 @@ public class App {
     public static void printSomething() {
         System.out.println("Print Something");
     }
+
+    public static void doSomething() {
+        System.out.println("Do Something");
+    }
 }
