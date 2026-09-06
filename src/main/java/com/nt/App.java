@@ -18,6 +18,6 @@ public class App {
     }
     int icon=0;
     public static int adition(int a, int b) {
-        return a + b;
+        return a + b-8;
     }
 }
