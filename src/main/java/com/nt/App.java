@@ -13,10 +13,12 @@ public class App {
         System.out.println("Do Something");
     }
 
+
     public int getI() {
         return icon;
     }
     int icon=0;
+
     public static int adition(int a, int b) {
         return a + b-8;
     }
