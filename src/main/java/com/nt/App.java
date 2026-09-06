@@ -13,6 +13,9 @@ public class App {
         System.out.println("Do Something");
     }
 
+
+
+    int i=0;
     public static int adition(int a, int b) {
         return a + b;
     }
