@@ -12,4 +12,12 @@ public class App {
     public static void doSomething() {
         System.out.println("Do Something");
     }
+
+    public int getI() {
+        return icon;
+    }
+    int icon=0;
+    public static int adition(int a, int b) {
+        return a + b;
+    }
 }
