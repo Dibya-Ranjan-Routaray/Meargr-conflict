@@ -14,8 +14,11 @@ public class App {
     }
 
 
+    public int getI() {
+        return icon;
+    }
+    int icon=0;
 
-    int i=0;
     public static int adition(int a, int b) {
         return a + b;
     }
