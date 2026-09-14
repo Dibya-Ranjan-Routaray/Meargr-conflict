@@ -18,7 +18,13 @@ public class App {
         return icon;
     }
     int icon=0;
-
+    int  icon2=0;
+    public int getI2() {
+        return icon2;
+    }
+    public int getI3() {
+        return  icon;
+    }
 
     public static int adition(int a, int b) {
         return a + b;
