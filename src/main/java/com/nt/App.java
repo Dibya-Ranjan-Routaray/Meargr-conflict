@@ -15,15 +15,17 @@ public class App {
 
 
     public int getI() {
-        return icon;
+        return icon+1;
     }
     int icon=0;
     int  icon2=0;
     public int getI2() {
+        icon2=icon-1;
         return icon2;
     }
     public int getI3() {
-        return  icon;
+       icon2=icon+1;
+       return icon2;
     }
 
     public static int adition(int a, int b) {
