@@ -29,6 +29,6 @@ public class App {
     }
 
     public static int adition(int a, int b) {
-        return a -b+90;
+        return a -b+9;
     }
 }
